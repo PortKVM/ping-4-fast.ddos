@@ -8,7 +8,7 @@
 Command: 
 
 For Windows Users:
-```
+```bash
 # Domain
 ping example.com -f -t -l 1
 
@@ -17,7 +17,7 @@ ping 93.184.216.34 -f -t -l 1
 ```
 
 For Linux (Very Good at ddos pinging)
-```
+```bash
 # Domain
 ping example.com -bits 1024 -s 1 
 
