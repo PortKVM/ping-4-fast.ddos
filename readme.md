@@ -8,7 +8,7 @@
 Command: 
 
 For Windows Users:
-```nodejs
+```js
 // Domain
 ping example.com -f -t -l 1
 
