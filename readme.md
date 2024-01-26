@@ -32,5 +32,5 @@ ping (URL/IP)
  -t // run in a loop (THIS DOESNT WORK ON LINUX)
  -l 1 // Send 1 byte (THIS DOESNT WORK ON LINUX)
  -bits 1024 // Run fast (Only on Linux)
- -s // Bit size (Only works on linux)
+ -s 1024 // Send 1024 Bytes (Only works on linux)
 ```
